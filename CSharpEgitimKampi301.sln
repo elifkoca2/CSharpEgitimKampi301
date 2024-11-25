@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.Busine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.PresentationLayer", "CSharpEgitimKampi301.PresentationLayer\CSharpEgitimKampi301.PresentationLayer.csproj", "{54A94BCB-F1D3-4BEA-ACF6-F72A11A6D0A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EFProject", "CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject.csproj", "{9E2204E6-EA0F-4610-888C-11FE798E0643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{54A94BCB-F1D3-4BEA-ACF6-F72A11A6D0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54A94BCB-F1D3-4BEA-ACF6-F72A11A6D0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54A94BCB-F1D3-4BEA-ACF6-F72A11A6D0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2204E6-EA0F-4610-888C-11FE798E0643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2204E6-EA0F-4610-888C-11FE798E0643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2204E6-EA0F-4610-888C-11FE798E0643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2204E6-EA0F-4610-888C-11FE798E0643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
